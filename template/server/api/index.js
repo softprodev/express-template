@@ -2,7 +2,7 @@ import { Router } from 'express'
 
 import users from './users'
 
-const router = Router()
+var router = Router()
 
 // Add USERS Routes
 router.use(users)
