@@ -1,6 +1,6 @@
 const express = require('express')
 
-// Create express instance
+// Create express instnace
 const app = express()
 
 // Require API routes
